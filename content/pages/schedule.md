@@ -30,7 +30,7 @@ sections:
       - type: FeaturedItem
         title: Social Media Management
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: '8:00 | 8:30'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
