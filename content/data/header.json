@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Register",
-            "url": "/pricing",
+            "url": "/register",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
