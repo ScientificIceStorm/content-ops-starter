@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Register
+      text: Registration Information
       color: text-dark
       styles:
         self:
