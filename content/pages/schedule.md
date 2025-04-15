@@ -28,7 +28,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Social Media Management
+        title: Check-In
         tagline: Feature 1
         subtitle: '8:00 - 8:30'
         text: >-
