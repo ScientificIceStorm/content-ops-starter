@@ -22,7 +22,7 @@
         },
         {
             "label": "Schedule",
-            "altText": "About",
+            "altText": "Schedule",
             "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
