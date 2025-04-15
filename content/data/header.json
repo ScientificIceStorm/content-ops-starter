@@ -21,9 +21,9 @@
             "type": "Link"
         },
         {
-            "label": "About",
-            "altText": "About",
-            "url": "/about",
+            "label": "Schedule",
+            "altText": "Schedule",
+            "url": "/schedule",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
