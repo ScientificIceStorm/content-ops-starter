@@ -23,7 +23,7 @@
         {
             "label": "Schedule",
             "altText": "Schedule",
-            "url": "/a",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
