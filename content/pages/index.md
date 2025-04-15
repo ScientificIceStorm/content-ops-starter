@@ -10,7 +10,7 @@ sections:
     subtitle: ''
     text: >
       A one-day conference for those wishing to get a head start on research and
-      presenting their findings to others
+      presenting their findings to others.
     actions:
       - label: Get started
         altText: ''
