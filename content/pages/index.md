@@ -21,7 +21,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: See Tutorials
+      - label: See Information
         altText: ''
         url: /
         showIcon: true
@@ -31,7 +31,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: /images/output-onlinepngtools.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

@@ -13,8 +13,8 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "Register",
+            "url": "/register",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
