@@ -14,7 +14,7 @@ sections:
     actions:
       - label: Register Now
         altText: ''
-        url: /
+        url: /register
         showIcon: false
         icon: arrowRight
         iconPosition: right
