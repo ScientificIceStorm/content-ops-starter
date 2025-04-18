@@ -148,7 +148,7 @@ sections:
         elementId: ''
         type: Button
     badge:
-      label: okokojo0oijhuohuoihiohiohoihio
+      label: Join us
       color: text-primary
       styles:
         self:
