@@ -73,16 +73,16 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
+            "label": "Register",
             "altText": "Sign up",
-            "url": "https://app.netlify.com/signup",
+            "url": "/register",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
         },
         {
-            "label": "Log in",
+            "label": "Schedule",
             "url": "/",
             "icon": "arrowRight",
             "iconPosition": "right",
