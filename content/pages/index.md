@@ -744,7 +744,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: SCYSRE
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Southern California Youth Science Research Conference
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
