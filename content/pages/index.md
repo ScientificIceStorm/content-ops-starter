@@ -68,11 +68,14 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      With the Southern California Youth Science Research Expo, you can get an
+      early start on learning what research is really about. It’s a chance to
+      explore questions you're curious about, work on projects that matter to
+      you, and share your findings with others. Whether you're just starting out
+      or already interested in science, the Expo helps you build real
+      experience, connect with other students, and see what it’s like to do
+      hands-on research.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
