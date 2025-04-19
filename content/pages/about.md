@@ -3,7 +3,7 @@ title: About
 slug: about
 sections:
   - title:
-      text: A team that works closely together
+      text: About Our Team
       color: text-dark
       styles:
         self:
