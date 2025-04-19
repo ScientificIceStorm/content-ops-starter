@@ -714,7 +714,7 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: SCYSRE
+  metaTitle: Southern California Youth Science Research Conference
   metaDescription: Southern California Youth Science Research Conference
   socialImage: /images/main-hero.jpg
   type: Seo
