@@ -74,7 +74,7 @@
         },
         {
             "label": "Schedule",
-            "url": "/",
+            "url": "/schedule",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
