@@ -13,15 +13,15 @@
     },
     "primaryLinks": [
         {
-            "label": "Register",
-            "url": "/register",
+            "label": "About",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Schedule",
+            "label": "FAQs",
             "altText": "Schedule",
             "url": "/schedule",
             "icon": "arrowRight",
@@ -30,16 +30,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
-            "altText": "Careers page",
-            "url": "/careers",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Dropdown",
+            "label": "More Information",
             "altText": "Dropdown",
             "links": [
                 {
@@ -83,7 +74,7 @@
         },
         {
             "label": "Schedule",
-            "url": "/",
+            "url": "/schedule",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
