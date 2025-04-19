@@ -67,7 +67,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       With the Southern California Youth Science Research Expo, you can get an
       early start on learning what research is really about. It’s a chance to
