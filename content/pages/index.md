@@ -99,7 +99,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: Different Activities Held
     items:
       - type: FeaturedItem
         title: 500k
