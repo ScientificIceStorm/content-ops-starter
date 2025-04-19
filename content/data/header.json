@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "About",
-            "url": "/register",
+            "url": "/about",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
