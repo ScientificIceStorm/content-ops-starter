@@ -216,7 +216,7 @@ sections:
     items:
       - title: TBD
         tagline: Speaker 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: |
           TBD
         image:
