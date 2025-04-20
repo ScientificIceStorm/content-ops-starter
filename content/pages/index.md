@@ -61,6 +61,37 @@ sections:
           - pr-7
     type: DividerSection
   - title:
+      text: Learn Research Skills in a Conference-Style Setting
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+      type: TitleBlock
+    subtitle: ''
+    text: >
+      With the Southern California Youth Science Research Expo, you can get an
+      early start on learning what research is really about. It’s a chance to
+      explore questions you're curious about, work on projects that matter to
+      you, and share your findings with others. Whether you're just starting out
+      or already interested in science, the Expo helps you build real
+      experience, connect with other students, and see what it’s like to do
+      hands-on research.
+    badge:
+      label: Key Benefits
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+      type: Badge
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: col
+        justifyContent: center
+      subtitle:
+        textAlign: center
+    type: GenericSection
+  - title:
       text: List of features here
       color: text-primary
       styles:
@@ -152,37 +183,6 @@ sections:
       subtitle:
         textAlign: center
     type: FeaturedItemsSection
-  - title:
-      text: Learn Research Skills in a Conference-Style Setting
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      With the Southern California Youth Science Research Expo, you can get an
-      early start on learning what research is really about. It’s a chance to
-      explore questions you're curious about, work on projects that matter to
-      you, and share your findings with others. Whether you're just starting out
-      or already interested in science, the Expo helps you build real
-      experience, connect with other students, and see what it’s like to do
-      hands-on research.
-    badge:
-      label: Key Benefits
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
