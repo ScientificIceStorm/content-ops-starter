@@ -124,7 +124,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Poster Sessions
-        tagline: This is the tagline
+        tagline: 'Event #2'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
