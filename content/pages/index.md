@@ -102,7 +102,7 @@ sections:
     items:
       - title: Guest Speakers
         tagline: 'Event #1'
-        subtitle: This is the item subtitle
+        subtitle: '9:15 - 11:45'
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
