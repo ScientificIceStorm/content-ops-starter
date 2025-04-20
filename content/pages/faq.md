@@ -53,10 +53,9 @@ sections:
       - type: FeaturedItem
         title: What are the keynote speakers?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The keynote speakers have not been announced yet, but when they are,
+          information will be posted on the blog and schedule.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
