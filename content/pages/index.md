@@ -179,7 +179,7 @@ sections:
             flexDirection: row
     actions:
       - type: Button
-        label: Get started
+        label: Full Schedule
         altText: ''
         url: /
         showIcon: false
