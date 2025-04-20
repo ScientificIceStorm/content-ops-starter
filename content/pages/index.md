@@ -272,7 +272,7 @@ sections:
         type: FeaturedItem
       - title: TBD
         tagline: Speaker 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: ''
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
