@@ -125,7 +125,7 @@ sections:
         type: FeaturedItem
       - title: Research Presentations
         tagline: 'Event #2'
-        subtitle: ''
+        subtitle: '1:30 - 3:00'
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
