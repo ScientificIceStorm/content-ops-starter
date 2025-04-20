@@ -101,7 +101,7 @@ sections:
     subtitle: Activities that will be held throughout the day
     items:
       - title: Guest Speakers
-        tagline: This is the tagline
+        tagline: 'Event #1'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Netlify Create site.
