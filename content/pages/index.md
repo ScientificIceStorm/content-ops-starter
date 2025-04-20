@@ -103,8 +103,9 @@ sections:
       - title: Guest Speakers
         tagline: 'Event #1'
         subtitle: '9:15 - 11:45'
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Three chosen guest speakers will give presentations on research in
+          their respective fields.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
