@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: How do I register?
-        subtitle: Sales
+        subtitle: ''
         text: >
           To register, click on the "register tab" and then click on the form to
           sign up.
