@@ -244,7 +244,7 @@ sections:
         type: FeaturedItem
       - title: TBD
         tagline: Speaker 2
-        subtitle: 'John Doe, Company'
+        subtitle: ''
         text: |
           TBD
         image:
