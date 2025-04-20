@@ -127,8 +127,9 @@ sections:
       - title: Research Presentations
         tagline: 'Event #2'
         subtitle: '1:30 - 3:00'
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Students in groups will give presentations on the research project
+          that they have been working on for the past few months.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
