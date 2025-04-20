@@ -42,7 +42,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Register",
             "altText": "",
             "url": "/register",
             "showIcon": false,
