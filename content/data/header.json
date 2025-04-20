@@ -33,7 +33,7 @@
         },
         {
             "label": "FAQs",
-            "altText": "Schedule",
+            "altText": "FAQs",
             "url": "/faq",
             "icon": "arrowRight",
             "iconPosition": "right",
