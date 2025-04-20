@@ -214,9 +214,7 @@ sections:
       color: text-dark
     subtitle: What our customers say about us
     items:
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+      - title: TBD
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
