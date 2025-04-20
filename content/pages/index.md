@@ -92,7 +92,7 @@ sections:
         textAlign: center
     type: GenericSection
   - title:
-      text: List of features here
+      text: List of Events
       color: text-primary
       styles:
         self:
