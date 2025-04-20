@@ -189,7 +189,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: Multiple
+      label: List of
       color: text-primary
       styles:
         self:
