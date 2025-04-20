@@ -13,7 +13,7 @@ sections:
     subtitle: Frequently Answered Questions
     items:
       - type: FeaturedItem
-        title: Account Executive
+        title: How do I register?
         subtitle: Sales
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
