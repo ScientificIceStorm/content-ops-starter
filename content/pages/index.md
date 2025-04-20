@@ -99,7 +99,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Different Activities Held
+    subtitle: Activities Held Throughout the Day
     items:
       - type: FeaturedItem
         title: 500k
