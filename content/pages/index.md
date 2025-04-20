@@ -98,7 +98,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: Activities that will be held throughout the day
     items:
       - title: Feature Item One
         tagline: This is the tagline
