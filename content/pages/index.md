@@ -152,7 +152,7 @@ sections:
         tagline: 'Event #3'
         subtitle: '3:00 - 3:30'
         text: >
-          A Science Bowl style competition where science-related questions are
+          A buzzer-style competition where science-related questions are
           answered as fast as possible to gain points.
         image:
           url: /images/abstract-feature1.svg
