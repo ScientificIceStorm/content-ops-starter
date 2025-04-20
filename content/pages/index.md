@@ -212,7 +212,7 @@ sections:
       type: TitleBlock
       text: Keynote Speakers
       color: text-dark
-    subtitle: What our customers say about us
+    subtitle: Each speaker will give a presentation followed by a Q&A session
     items:
       - title: TBD
         tagline: Speaker 1
