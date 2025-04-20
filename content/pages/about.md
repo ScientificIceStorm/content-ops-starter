@@ -14,7 +14,7 @@ sections:
       The dedicated team behind the SCYSRE, who are responsible for organizing
       the conference.
     actions:
-      - label: See open positions
+      - label: See open position
         url: /
         icon: arrowRight
         iconPosition: right
