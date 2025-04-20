@@ -100,7 +100,7 @@ sections:
       type: TitleBlock
     subtitle: Activities that will be held throughout the day
     items:
-      - title: Feature Item One
+      - title: Guest Speakers
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
