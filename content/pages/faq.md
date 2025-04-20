@@ -15,10 +15,9 @@ sections:
       - type: FeaturedItem
         title: How do I register?
         subtitle: Sales
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          To register, click on the "register tab" and then click on the form to
+          sign up.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
