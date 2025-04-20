@@ -123,7 +123,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Poster Sessions
+      - title: Research Presentations
         tagline: 'Event #2'
         subtitle: ''
         text: |
