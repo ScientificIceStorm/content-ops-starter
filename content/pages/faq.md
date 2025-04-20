@@ -34,10 +34,9 @@ sections:
       - type: FeaturedItem
         title: What is the fee?
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The fee for a submission is $20. There will also be an additional fee
+          for registration and lunch.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
