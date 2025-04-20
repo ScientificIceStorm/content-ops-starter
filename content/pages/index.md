@@ -181,7 +181,7 @@ sections:
       - type: Button
         label: Full Schedule
         altText: ''
-        url: /
+        url: /schedule
         showIcon: false
         icon: arrowRight
         iconPosition: right
