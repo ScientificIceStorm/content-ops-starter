@@ -148,7 +148,7 @@ sections:
         type: FeaturedItem
       - title: Science Bowl
         tagline: 'Event #3'
-        subtitle: This is the item subtitle
+        subtitle: '3:00 - 3:30'
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
