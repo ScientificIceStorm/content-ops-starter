@@ -245,10 +245,8 @@ sections:
       - title: TBD
         tagline: Speaker 2
         subtitle: 'John Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          TBD
         image:
           url: /images/person-placeholder-light.png
           altText: John Doe
