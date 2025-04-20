@@ -125,7 +125,7 @@ sections:
         type: FeaturedItem
       - title: Poster Sessions
         tagline: 'Event #2'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
