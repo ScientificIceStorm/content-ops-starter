@@ -147,7 +147,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Science Bowl
-        tagline: This is the tagline
+        tagline: 'Event #3'
         subtitle: This is the item subtitle
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
